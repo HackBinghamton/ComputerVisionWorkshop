@@ -4,10 +4,10 @@ Welcome to our brand new workshop this semester: Computer Vision! You'll learn t
 
 ## Sections
 
-1. **[Intro to OpenCV](https://drive.google.com/file/d/1IWEsDKR4vAIPtg4vnmQrp9gajcVIuBXV/view?usp=sharing)**
+1. **[Intro to OpenCV](https://colab.research.google.com/drive/1IWEsDKR4vAIPtg4vnmQrp9gajcVIuBXV?authuser=1)**
 
-2. **[Basic Image Processing Techniques](https://drive.google.com/file/d/1JzuExnT018gssDP2z7Ew2bzpYo_DBsHY/view?usp=sharing)**
+2. **[Basic Image Processing Techniques](https://colab.research.google.com/drive/1JzuExnT018gssDP2z7Ew2bzpYo_DBsHY?authuser=1)**
 
 3. **[Finding an Object](https://colab.research.google.com/drive/1R8hUDRN_5g1P3xOMkiDgv19D6DNcRIr0?authuser=1)**
 
-4. **[Mini Project](https://drive.google.com/file/d/1Spl46jItYANfhgkZdnUwmJjcgVc8_sO0/view?usp=sharing)**
+4. **[Mini Project](https://colab.research.google.com/drive/1Spl46jItYANfhgkZdnUwmJjcgVc8_sO0?authuser=1)**
